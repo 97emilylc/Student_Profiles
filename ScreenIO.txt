@@ -1,0 +1,79 @@
+******************************************************
+*  PROGRAMMED BY : Emily Christiansen
+*  STUDENT ID    : 1027461
+*  CLASS         : CS1C --> MW - 2:00pm
+*  ASSIGNMENT #2 : Student and CS Student Classes
+******************************************************
+		PROGRAM DESCRIPTION:
+This program using Object Oriented Programming 
+techniques to design a variety of student and CS1A 
+student objects. Their elements are manipulated and 
+changed before being output to the console.
+******************************************************
+Regular Students: 
+Student Name: Donald Trump
+Gender:       M
+Phone Number: (949) 555-1234
+Age:          70
+ID Number:    999999
+GPA:          4.00
+Class:        Freshman
+
+Student Name: Hilary Clinton
+Gender:       F
+Phone Number: (714) 555-5555
+Age:          68
+ID Number:    12345
+GPA:          3.23
+Class:        Sophomore
+
+Student Name: Michael Phelps
+Gender:       M
+Phone Number: (760) 703-1234
+Age:          31
+ID Number:    876542
+GPA:          3.80
+Class:        Sophomore
+
+Student Name: Miley Cyrus
+Gender:       F
+Phone Number: (213) 555-6789
+Age:          23
+ID Number:    777744
+GPA:          2.10
+Class:        Freshman
+
+Computer Science Students: 
+Student Name:        Adele
+Gender:              F
+Phone Number:        (949) 665-1234
+Age:                 28
+ID Number:           668899
+GPA:                 3.30
+Class:               Freshman
+Total Score:         500
+Knowledge of Python? No
+Graduation Date:     5/12/2016
+
+Student Name:        Taylor Swift
+Gender:              F
+Phone Number:        (248) 555-6543
+Age:                 26
+ID Number:           156789
+GPA:                 3.90
+Class:               Sophomore
+Total Score:         700
+Knowledge of Python? No
+Graduation Date:     5/11/2015
+
+Student Name:        Bruno Mars
+Gender:              M
+Phone Number:        (703) 703-7654
+Age:                 30
+ID Number:           876545
+GPA:                 3.20
+Class:               Sophomore
+Total Score:         800
+Knowledge of Python? Yes
+Graduation Date:     5/11/2015
+

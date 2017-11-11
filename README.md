@@ -2,13 +2,18 @@
 This project is continuing to review topics like OOP.
 
 Project Description, copied exactly from the professor's file:
+
 a.	Create a student class for storing information related to student information for the Saddleback College.  This class should contain the student’s name, student’s Id, phone number, age, gender, class standing, and GPA.  You should write a series of member functions that change the student’s name, student’s Id, phone number, age, class standing, and GPA. You should write a print function that prints all information related to a student.  The class specification and implementation should be in separate files.  Write a client to test all your member functions.  Print the before and after when testing your change functions.  You should write at least two different constructors (default and non-default).  Store the Students objects in an array.
+
 b.	Create a date class.  
+
 c.	Derive a CS1Cstudent class from the student class.  Add the following data members to the CS1Cstudent class:
 Total score on the student’s assignments
 Knowledge of Python (yes or no)
 Projected graduation date (use the date class (composition)) 
+
 d.	Store the CS1CStudent objects in an array.
+
 e.	Redefine the print method in the CS1Cstudent class to print the student’s name, student’s Id, phone number, age, gender, class standing, GPA, total score, knowledge of Python, and projected graduation date for CS1Cstudent objects.
 
 You should write at least two different constructors (default and non-default) for the CS1Cstudent class.
